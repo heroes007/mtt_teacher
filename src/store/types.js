@@ -1,0 +1,10 @@
+//登录
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAILED = 'LOGIN_FAILED'
+export const LOGOUT_USER = 'LOGOUT_USER'
+
+//用户信息
+export const USERINFO_LOADED = 'USERINFO_LOADED'
+export const USERINFO_NULL = 'USERINFO_NULL'
+export const USERINFO_SETTED = 'USERINFO_SETTED'
+export const SET_ORGANIZATION = 'SET_ORGANIZATION'

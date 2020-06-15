@@ -1,0 +1,84 @@
+
+.patient-modal>.ivu-modal-wrap>.ivu-modal>.ivu-modal-content>.ivu-modal-body[data-v-42ebf8a2]{
+  padding: 20px;
+  color: #474C63;
+}
+.patient-content-margin[data-v-42ebf8a2]{
+  margin-bottom: 40px !important;
+}
+.patient-modal-title[data-v-42ebf8a2]{
+    height: 28px;
+    line-height: 28px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.patient-divider.ivu-divider-horizontal[data-v-42ebf8a2]{
+  margin: 0px;
+  background:#F0F0F7;
+}
+.patient-left-divider.ivu-divider-horizontal[data-v-42ebf8a2]{
+  margin: 0px;
+  background:#CDCED3;
+}
+.patient-modal-main[data-v-42ebf8a2]{
+  display: flex;
+  flex-wrap: nowrap;
+  padding-top: 20px;
+}
+.patient-modal-Left[data-v-42ebf8a2]{
+  width: 180px;
+  height: 369px;
+  padding: 20px 15px;
+  background: #F0F0F7;
+  border-radius: 4px;
+}
+.patient-modal-content[data-v-42ebf8a2]{
+  padding-left: 30px;
+  flex: 1
+}
+.patient-modal-left-img[data-v-42ebf8a2]{
+  width: 120px;
+  height: 120px;
+  margin-left: 15px;
+}
+.patient-modal-left-name[data-v-42ebf8a2]{
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  color: #474C63;
+  margin: 15px;
+  font-size: 18px;
+}
+.patient-left-info[data-v-42ebf8a2]{
+  margin: 15px 15px 5px 15px;
+}
+.patient-left-item[data-v-42ebf8a2]{
+  height: 22px;
+  line-height: 22px;
+}
+.patient-left-item[data-v-42ebf8a2],.patient-content-item[data-v-42ebf8a2]{
+  margin-bottom: 15px;
+  font-size: 16px;
+  color: #474C63;
+}
+.patient-content-item[data-v-42ebf8a2]{
+  height: auto;
+}
+.patient-content-item[data-v-42ebf8a2]{
+  display: flex;
+}
+.patient-content-tilte[data-v-42ebf8a2]{
+  min-width: 80px;
+  height: 22px;
+  font-size: 16px;
+}
+.patient-content-details[data-v-42ebf8a2]{
+   padding-left: 10px;
+   flex:1;
+   font-size: 16px;
+   letter-spacing: 0;
+   text-align: justify;
+   line-height: 25px;
+}
+

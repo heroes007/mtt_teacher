@@ -1,0 +1,37 @@
+
+.load-container[data-v-d9da4640] {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 99999;
+  background-color: #fff;
+  opacity: 0.8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap
+}
+.loadSpinner[data-v-d9da4640]{
+    width: 100%;
+    text-align: center;
+    position: absolute;
+}
+.loadingIcon[data-v-d9da4640]{
+  vertical-align: baseline;
+  display: inline-block;
+}
+.loadText[data-v-d9da4640]{
+    margin: 3px 0;
+    font-size: 14px;
+}
+.demo-spin-icon-load[data-v-d9da4640]{
+    animation: ani-demo-spin-data-v-d9da4640 1s linear infinite;
+}
+@keyframes ani-demo-spin-data-v-d9da4640 {
+from { transform: rotate(0deg);}
+50%  { transform: rotate(180deg);}
+to   { transform: rotate(360deg);}
+}
+

@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'xght-webfont';
+  src:  url('fonts/xght-webfont.eot?dcz797');
+  src:  url('fonts/xght-webfont.eot?dcz797#iefix') format('embedded-opentype'),
+    url('fonts/xght-webfont.ttf?dcz797') format('truetype'),
+    url('fonts/xght-webfont.woff?dcz797') format('woff'),
+    url('fonts/xght-webfont.svg?dcz797#xght-webfont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="xght-webfont-"], [class*=" xght-webfont-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'xght-webfont' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.xght-webfont-cog:before {
+  content: "\e900";
+}
+.xght-webfont-tag:before {
+  content: "\e901";
+}
+.xght-webfont-th-large:before {
+  content: "\e902";
+}
+.xght-webfont-folder-open:before {
+  content: "\e903";
+}
+.xght-webfont-lock:before {
+  content: "\e904";
+}
+.xght-webfont-unlock:before {
+  content: "\e905";
+}
+.xght-webfont-calendar:before {
+  content: "\e906";
+}
+.xght-webfont-user:before {
+  content: "\e907";
+}
+.xght-webfont-picture:before {
+  content: "\e908";
+}
+.xght-webfont-upload-alt:before {
+  content: "\e909";
+}
+.xght-webfont-upload:before {
+  content: "\e90a";
+}
+.xght-webfont-film:before {
+  content: "\e90b";
+}
+.xght-webfont-zoom-in:before {
+  content: "\e90c";
+}
+.xght-webfont-delete:before {
+  content: "\e90d";
+}
+.xght-webfont-plus:before {
+  content: "\e90e";
+}
+.xght-webfont-angle-down:before {
+  content: "\e90f";
+}
+.xght-webfont-angle-up:before {
+  content: "\e910";
+}
+.xght-webfont-caret-down:before {
+  content: "\e911";
+}
+.xght-webfont-caret-up:before {
+  content: "\e912";
+}
+.xght-webfont-circle-arrow-down:before {
+  content: "\e913";
+}
+.xght-webfont-circle-arrow-up:before {
+  content: "\e914";
+}
+.xght-webfont-ok:before {
+  content: "\e915";
+}
+.xght-webfont-close:before {
+  content: "\e916";
+}
+.xght-webfont-close-sign:before {
+  content: "\e917";
+}
+.xght-webfont-ok-sign:before {
+  content: "\e918";
+}
+.xght-webfont-play-sign:before {
+  content: "\e919";
+}
+.xght-webfont-remove:before {
+  content: "\e91a";
+}
+.xght-webfont-face-cry:before {
+  content: "\e91b";
+}
+
